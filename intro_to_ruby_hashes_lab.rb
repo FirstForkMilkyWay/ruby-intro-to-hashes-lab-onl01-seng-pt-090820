@@ -10,7 +10,7 @@ end
 
 def monopoly
 	monopoly = {}
-  monopoly[:third] = "third value!"
+  monopoly[:railroads] = {}
 end
 
 def monopoly_with_second_tier
